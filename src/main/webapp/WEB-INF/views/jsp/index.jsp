@@ -47,6 +47,7 @@
 
 
 	<hr>
+	<hr>
 	<footer>
 		<p>&copy; Nukala Manikanta</p>
 	</footer>
