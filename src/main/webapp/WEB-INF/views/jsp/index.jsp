@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Docker Demo</title>
+<title>Jenkins Demo</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hi, This a sample application running as docker container</h2>
+			<h2>Hi, This a sample application deployed using Jenkins</h2>
 			
 		</div>	
 	</div>
