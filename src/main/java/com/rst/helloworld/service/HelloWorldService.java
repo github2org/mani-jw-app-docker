@@ -14,7 +14,7 @@ public class HelloWorldService {
 
 		logger.debug("getDesc() is executed!");
 
-		return "Docker Demo";
+		return "Jenkins Demo";
 
 	}
 
