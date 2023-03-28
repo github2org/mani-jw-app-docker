@@ -1,0 +1,11 @@
+version: '3.1'
+services:
+  javawebapp:
+    image: :VERSION
+    restart: always
+    ports:
+    - 9090:8080
+    networks:
+    - javaappbridge
+networks:
+  javaappbridge:
